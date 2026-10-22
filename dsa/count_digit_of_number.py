@@ -9,3 +9,7 @@ def count_digit(num:int)->int:
     return count
 
 print(count_digit(356890))
+
+# from math import log10
+
+# print(int(log10(234785)+1))
