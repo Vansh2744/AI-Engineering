@@ -28,3 +28,7 @@ def dict_hash(arr:list[int])->dict:
 arr = [2,3,4,5,5,6,3,3,2,2,8,10,10,4,5,4,4,5,6,7,7,8]
 
 print(dict_hash(arr))
+
+char_arr = ['a','b','a','a','c','b','c','a','c','d']
+
+print(dict_hash(char_arr))
